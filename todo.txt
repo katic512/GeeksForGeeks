@@ -1,0 +1,3 @@
+* Job scheduling algorith, similar to kadens algo
+			https://www.youtube.com/watch?v=cr6Ip0J9izc
+*https://practice.geeksforgeeks.org/problems/minimize-the-heights/0
